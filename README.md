@@ -1,2 +1,3 @@
-# inventario-institucional-winforms
-Sistema de gestión de inventario institucional desarrollado en C# con .NET Framework y Windows Forms. Implementa arquitectura por capas (Entidad, Modelo, Controlador y Vista), reportes RDLC para generación de informes y SQL Server para el manejo y control de datos institucionales.
+Institutional inventory management system developed in C# with .NET Framework and Windows Forms. 
+It implements a layered architecture (Entity, Model, Controller, and View), RDLC reports for
+generating reports, and SQL Server for managing and controlling institutional data.
